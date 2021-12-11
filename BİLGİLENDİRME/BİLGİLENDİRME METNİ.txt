@@ -1,0 +1,12 @@
+**************
+Prime Swing Algoritması ile faktöriyel hesaplamasını nasıl yaptığımı 
+klasördeki  >>>Prime Swing Bilgilendirme.jpeg <<< fotoğrafına bakarak anlayabilirsiniz.
+
+**************
+Fotoğrafta Prime Swing in nasıl hesaplandığının
+formülü ve 1'den 11 e kadar ki değerlerinin tablosu vardır.
+
+**************
+Uygulamayı çalıştırdığınızda girdiğiniz değerlerin sonuçlarını kontrol etmek için
+fotoğraftaki tabloyu kullanabilirsiniz.
+
